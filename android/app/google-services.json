@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946754008704",
+    "project_id": "borhanuddincollege",
+    "storage_bucket": "borhanuddincollege.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946754008704:android:334029a237fab692791865",
+        "android_client_info": {
+          "package_name": "com.example.borhanudiincollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946754008704-oe7tchkmtdil2rd58mfpopl5h1iffo8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi93VrXtH6-dZqJoTwRu0LktGjyKSiYRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946754008704-oe7tchkmtdil2rd58mfpopl5h1iffo8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
